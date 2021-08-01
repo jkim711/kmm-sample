@@ -19,14 +19,14 @@ With the [KMM plugin for Android Studio](https://plugins.jetbrains.com/plugin/14
 
 ##  Libaries between Android and Ios
 
-# Common
+### Common
 * SQL Delight
 * KTOR
 * KOTLINUX.DATETIME
 * KOTLINX.Serialization
 * Firebase Crashlytics
 
-# Android
+### Android
 * Jetpack Commpose
 * Navigation Component
 * Hilt
@@ -34,7 +34,7 @@ With the [KMM plugin for Android Studio](https://plugins.jetbrains.com/plugin/14
 * Accompanist Coil
 * Google Maps
 
-# IOS
+### IOS
 * SwiftUI
 * CocoaPods
 * Google Maps
