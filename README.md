@@ -27,7 +27,7 @@ With the [KMM plugin for Android Studio](https://plugins.jetbrains.com/plugin/14
 * KOTLINUX.DATETIME
 * KOTLINX.Serialization
 * Firebase Crashlytics
-
+* D-KMP Archticture  ( https://github.com/dbaroncelli/D-KMP-sample )
 ### Android
 * Jetpack Commpose
 * Navigation Component
