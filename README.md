@@ -40,6 +40,7 @@ With the [KMM plugin for Android Studio](https://plugins.jetbrains.com/plugin/14
 * SwiftUI
 * CocoaPods
 * Google Maps
+* Manaul DI
 
 
 
